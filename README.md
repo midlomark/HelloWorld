@@ -1,7 +1,7 @@
 # HelloWorld
-Learning how to create a GitHub repository and project
+Learning how to create a GitHub repository and projec
 
-I'm new to the "organized" coding world after a long career of
+I am attempting to join the "organized" coding world after a long career of
 Corporate Real Estate strategy management.  I interested in 
 collaborating and learning from anyone who is willing to help
 me on my journey towards creating a home automation system.
